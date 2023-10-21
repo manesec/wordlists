@@ -1,0 +1,2 @@
+# wordlists
+ wordlists for manesec
