@@ -9,5 +9,5 @@ copy
 old
 orig
 tmp
-txt
 back
+1
